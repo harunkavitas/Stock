@@ -1,2 +1,5 @@
-# Stock
-Stock WPF Project
+# STOCK
+> Stock in WPF Project
+
+#### UI Login
+> ![a](ReadmeContent/Login.PNG)
